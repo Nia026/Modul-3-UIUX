@@ -1,0 +1,162 @@
+/* Desktop - 1 */
+#desktop{
+  position: relative;
+  width: 1440px;
+  height: 1024px;
+  
+  background: #FFFFFF;
+}
+
+/* footer_Nia Rizqika F.R */
+#footer{
+  position: absolute;
+  width: 1440px;
+  height: 95px;
+  left: 0px;
+  top: 917px;
+  
+  background: #113083;
+}
+
+/* Copyright @ D4 Manajemen Informatika Fakultas Vokasi - Universitas Negeri Surabaya */
+#footer_text{
+  position: absolute;
+  width: 414px;
+  height: 46px;
+  left: calc(50% - 414px/2);
+  top: calc(50% - 46px/2 + 0.5px);
+  
+  font-family: 'Microsoft Sans Serif';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 23px;
+  text-align: center;
+  
+  color: #FFFFFF;
+}
+
+/* content_Nia Rizqika F.R */
+#content{
+  position: absolute;
+  width: 1440px;
+  height: 842px;
+  left: 0px;
+  top: 75px;
+  
+  background: #FFFFFF;
+}
+
+/* d4mi 1 */
+img, #img_content{
+  position: absolute;
+  width: 751px;
+  height: 580px;
+  left: calc(50% - 751px/2 - 0.5px);
+  top: 46px;
+  
+  background: url(d4mi.jpg);
+}
+
+
+/* AYO BERGABUNG DAN BERKEMBANG BERSAMA KAMI */
+#tittle{
+  position: absolute;
+  width: 843px;
+  height: 36px;
+  left: calc(50% - 843px/2 + 0.5px);
+  top: calc(50% - 36px/2 + 250px);
+  
+  font-family: 'Microsoft Sans Serif';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 36px;
+  text-align: center;
+  
+  color: #000000;
+}
+
+/* button
+button{
+  position: absolute;
+  width: 349px;
+  height: 86px;
+  left: calc(50% - 349px/2 + 0.5px);
+  top: 716px;
+} */
+
+/* Rectangle 1 */
+button{
+  position: absolute;
+  width: 349px;
+  height: 86px;
+  left: calc(50% - 349px/2 + 0.5px);
+  top: 716px;
+  
+  background: #113083;
+  border-radius: 25px;
+}
+
+
+/* DAFTAR SEKARANG */
+button{
+  position: absolute;
+  width: 315px;
+  height: 36px;
+  left: calc(50% - 315px/2 + 0.5px);
+  top: calc(50% - 36px/2 + 338px);
+  
+  font-family: 'Microsoft Sans Serif';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 36px;
+  text-align: center;
+  
+  color: #FFFFFF;
+}
+
+
+
+/* topnav_Nia Rizqika F.R */
+#topnav{
+  position: absolute;
+  width: 1440px;
+  height: 75px;
+  left: 0px;
+  top: 0px;
+  
+  background: #113083;
+}
+
+
+/* unesa 1 */
+img, #img_nav{
+  position: absolute;
+  width: 60px;
+  height: 65px;
+  left: 28px;
+  top: calc(50% - 65px/2);
+  
+  background: url(unesa.png);
+}
+
+
+/* D4 MANAJEMEN INFORMATIKA - FAKULTAS VOKASI - UNIVERSITAS NEGERI SURABAYA */
+#nav_tittle{
+  position: absolute;
+  width: 847px;
+  height: 23px;
+  left: 121px;
+  top: calc(50% - 23px/2);
+  
+  font-family: 'Microsoft Sans Serif';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 23px;
+  /* identical to box height */
+  
+  color: #FFFFFF;
+}
